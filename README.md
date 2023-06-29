@@ -1,2 +1,1 @@
-# Bricked-Coder
-Simple projects only :)
+Bricked-Coder
